@@ -2,5 +2,7 @@
 #Which Print Greetings To User
 #Name Variable Is Readed by Input Function
 Name=input()
-
+#Plus Sign Concencates Our Variable
+#Print Shows It On The Screen
 print("Hello"+Name)
+
