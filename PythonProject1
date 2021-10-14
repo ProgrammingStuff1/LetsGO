@@ -1,0 +1,6 @@
+#Simple Greeting Program
+#Which Print Greetings To User
+#Name Variable Is Readed by Input Function
+Name=input()
+
+print("Hello"+Name)
