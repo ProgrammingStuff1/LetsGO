@@ -1,0 +1,28 @@
+#Adding And Other Math Opeartors In Python With Numbers Variation Of Input Function
+#Value Is Passed As Integer So Can Be Used Any Number Till - 2 or More
+
+Number=int(input())
+
+ADD = Number+Number
+
+SUBTRACT=Number-Number
+
+MULTIPLY=Number*Number
+
+DIVIDE=Number/Number
+
+MODULUS=Number%Number
+
+NORMAL_DIVISION=Number//Number
+
+print(NORMAL_DIVISION)
+
+print(MODULUS)
+
+print(DIVIDE)
+
+print(MULTIPLY)
+
+print(SUBTRACT)
+
+print(ADD)
